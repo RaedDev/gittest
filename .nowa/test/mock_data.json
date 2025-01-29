@@ -1,0 +1,25 @@
+{
+    "paths": {
+        "/": {
+            "get": {
+                "collection": "ApiCollection",
+                "operationId": "asdf",
+                "summary": "Nowa Auto Generated",
+                "description": "",
+                "responses": {
+                    "200": {
+                        "description": "Success",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object"
+                                },
+                                "value": null
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
