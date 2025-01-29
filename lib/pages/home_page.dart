@@ -54,6 +54,7 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
+      backgroundColor: const Color(0xff6fa0da),
     );
   }
 }
