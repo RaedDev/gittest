@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
           alignment: const Alignment(0.0, 0.0),
           children: [
             Positioned(
-              top: 29.0,
+              top: 15.0,
               left: 42.5,
               width: 308.0,
               height: 447.0,

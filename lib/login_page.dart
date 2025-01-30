@@ -33,7 +33,7 @@ class _LoginPageState extends State<LoginPage> {
               height: 148.0,
               child: Container(
                 decoration: BoxDecoration(
-                    color: Color(0xffc4c4c4),
+                    color: const Color(0xffc4c4c4),
                     borderRadius: BorderRadius.circular(0.0)),
               ),
             ),
@@ -58,6 +58,7 @@ class _LoginPageState extends State<LoginPage> {
           ],
         ),
       ),
+      backgroundColor: const Color(0xff7c7dd2),
     );
   }
 }
