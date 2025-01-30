@@ -11,13 +11,8 @@
             ]
         },
         {
-<<<<<<< HEAD
             "x": 433.0,
             "y": 270.0,
-=======
-            "x": 1017.0,
-            "y": 208.0,
->>>>>>> ccaa71e45a5d9a6033c319ffdbb7ee50b66114df
             "w": 137.0,
             "h": 132.0,
             "widget": "const Text('Write something',)"
