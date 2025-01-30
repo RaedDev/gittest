@@ -16,6 +16,16 @@
             "w": 137.0,
             "h": 132.0,
             "widget": "const Text('Write something',)"
+        },
+        {
+            "x": 1091.0,
+            "y": 182.0,
+            "w": 393.0,
+            "h": 808.0,
+            "widget": "const LoginPage()",
+            "deps": [
+                "lib/login_page.dart"
+            ]
         }
     ]
 }
