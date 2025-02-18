@@ -1,20 +1,20 @@
 {
     "canvases": [
         {
-            "x": 584.0,
-            "y": 182.0,
-            "w": 393.0,
-            "h": 808.0,
+            "x": 584,
+            "y": 182,
+            "w": 393,
+            "h": 808,
             "widget": "const HomePage()",
             "deps": [
                 "lib/pages/home_page.dart"
             ]
         },
         {
-            "x": 253.0,
-            "y": 388.0,
-            "w": 137.0,
-            "h": 132.0,
+            "x": 269,
+            "y": 293,
+            "w": 137,
+            "h": 132,
             "widget": "const Text('Write something',)"
         }
     ]
